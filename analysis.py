@@ -1,4 +1,6 @@
-import os,sys  
+import os
+import sys
 
-x = 1
 print("test")
+print(os.name)
+print(sys.version)
